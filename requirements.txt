@@ -1,6 +1,6 @@
 pandas==0.24.2
 bs4==0.0.1
 biopython==1.73
-requests==2.21.0
+requests==2.31.0
 requests-html==0.10.0
 selenium==3.141.0
